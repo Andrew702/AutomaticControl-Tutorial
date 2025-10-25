@@ -1,6 +1,6 @@
 # Automatic Control Study
 
-_My personal Study notes for the topic in automatic control_
+_My personal Study notes for the topic of automatic control_
 
 
 
